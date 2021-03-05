@@ -1,6 +1,6 @@
 {
   "name": "react-gene-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Generator Client",
   "main": "index.js",
   "bin": {
