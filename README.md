@@ -2,6 +2,10 @@
 
 ###### Creator: HeartwarmingFox (FluffballDev),
 
+##### Version 1.1.0
+###### New features:
+    - Addition of typescript support.
+    - Removal of memes
 ##### Installation:
 
 ```js
@@ -12,14 +16,16 @@ npm i -D react-gene-cli
 
 ```js
 cd <myappdir> 
-
-(npx?) react-gene-cli <myprojectname>
+react-gene-cli <myprojectname>
 ```
 
-? : maybe needed. I dont really mess with NPM that much, This is my first package afterall :D
+If you want to use typescript use
 
+```js
+react-gene-cli <myprojectname> --typescript=true
+```
 
+Please note that typescript support is still EXPERIMENTAL and will be going over many updates.
+*Usage of typescript may produce errors!
 
 Report issues [here.](https://github.com/FluffBallDev/react-gene-cli/issues)
-
-
