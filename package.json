@@ -1,6 +1,6 @@
 {
   "name": "react-gene-cli",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "React Generator Client",
   "main": "index.js",
   "bin": {
@@ -39,7 +39,8 @@
   "dependencies": {
     "fs-extra": "^9.1.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "yargs": "^16.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.13.8",

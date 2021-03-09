@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "target": "ES6",
+        "module": "CommonJS",
+        "strict": true,
+        "outDir": "/build",
+        "checkJs": true
+    }
+}
